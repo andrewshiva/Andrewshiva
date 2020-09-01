@@ -1,5 +1,6 @@
 ### Hi there 👋 i am shiva 
 
+<img  alt="ANIMATION" src="https://github.com/andrewshiva/andrewshiva/https://github.com/snipe/animated-gifs/blob/master/cheating/Dog%20Shortcut.gif"></img>
 
 
 
