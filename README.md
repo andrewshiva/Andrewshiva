@@ -1,6 +1,6 @@
 ### Hi there 👋 i am shiva 
 
-<img  alt="ANIMATION" src="https://github.com/andrewshiva/andrewshiva/minions.gif"></img>
+<img  alt="ANIMATION" src="https://github.com/andrewshiva/andrewshiva/github.com/andrewshiva/Andrewshiva/blob/master/minions.gif"></img>
 
 
 
