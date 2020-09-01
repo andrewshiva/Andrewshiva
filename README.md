@@ -22,24 +22,9 @@ Gmail- Singhtomar456@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewshiva&layout=compact)](https://github.com/andrewshiva/github-readme-stats)
 
 
-<!--START_SECTION:activity-->
 
-name: Update README
 
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
-    steps:
-      - uses: actions/checkout@v2
-      - uses: andrewshiva/github-andrewshiva
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
