@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on machine learning and deep learning 
+###🔭 I’m currently working on machine learning and deep learning 
 - 🌱 I’m currently learning keras and pytorch
 - 💬 Ask me about ml and data science
 - 📫 How to reach me: 
