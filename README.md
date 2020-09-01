@@ -1,6 +1,6 @@
 ### Hi there 👋 i am shiva 
 
-<img  alt="ANIMATION" src="https://github.com/andrewshiva/andrewshiva/github.com/andrewshiva/Andrewshiva/blob/master/minions.gif"></img>
+  <img align="right" alt="GIF" src="https:https://github.com/andrewshiva/Andrewshiva/blob/master/minions.gif" width="500" height="320" />
 
 
 
@@ -21,6 +21,10 @@ Gmail- Singhtomar456@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewshiva&layout=compact)](https://github.com/andrewshiva/github-readme-stats)
+
+<br>
+![](https://visitor-badge.glitch.me/badge?page_id=andrewshiva.andrewshiva)
+</br>
 
 
   
