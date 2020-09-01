@@ -18,3 +18,7 @@ Gmail- Singhtomar456@gmail.com
 
 [![Andrewshivagithub stats](https://github-readme-stats.vercel.app/api?username=andrewshiva)](https://github.com/andrewshiva/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewshiva&layout=compact)](https://github.com/andrewshiva/github-readme-stats)
+
+
