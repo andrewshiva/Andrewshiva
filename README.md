@@ -14,7 +14,8 @@
 - 📫 How to reach me: 
 linkedin -https://www.linkedin.com/in/shiva-singh-tomar-253190173/
 Gmail- Singhtomar456@gmail.com
-- ⚡ Fun fact:  i am vampire lol
+- ⚡ Fun fact:  i am vampire 
+- 
 
 
 
