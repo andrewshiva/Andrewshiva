@@ -8,8 +8,8 @@
 
 
 
- -🔭 I’m currently working on machine learning and deep learning
-- 🌱 I’m currently learning keras and pytorch , Js ,Html ,Css
+ -🔭 I’m currently working on Dot Net And Js
+- 🌱 I’m currently learning React and Competitive programming 
 - 💬 Ask me about ml and data science
 - 📫 How to reach me: 
 linkedin -https://www.linkedin.com/in/shiva-singh-tomar-253190173/
